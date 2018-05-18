@@ -5,7 +5,7 @@ center_control.py
 """
 
 from XBee_host import setupXbee, getGesture
-from serial_put import serialPut, sendSingleMessege, sendOneChar
+from serial_put import serialPut, sendOneChar
 from shell_command import oneTimeShell
 from test_selenium import git_lab_inquiry
 # from getKeycode import *
